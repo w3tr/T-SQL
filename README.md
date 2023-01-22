@@ -20,3 +20,7 @@ Döküman içerisindeki konu başlıkları aşağıda listelenmiştir.
 `Views`<br>
 `Functions`<br>
 `Stored Procedure`<br>
+`Aggregate Functions`<br>
+`String Functions`<br>
+`Date Functions`<br>
+`Other Functions`<br>
